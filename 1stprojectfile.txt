@@ -1,0 +1,5 @@
+This is a random text file.  Trying to learn how to use git.
+
+Seems rather opaque to me, although the concept is pretty
+obvious and obviously useful.  Even when I code it seems
+hard to keep track of all the different files in a repository.
