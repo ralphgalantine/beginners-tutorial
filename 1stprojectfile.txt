@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 I just changed this on the master.  Will it change ont he branch?
+=======
+I changed this on branch 1 not the master.
+What will happen if I try to merge
+>>>>>>> Branch1
 
 This is a random text file.  Trying to learn how to use git.
 
